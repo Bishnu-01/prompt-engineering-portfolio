@@ -1,5 +1,5 @@
 Iteration 1:
-- Issue: Character personality was inconsistent.
+- Issue: Character personality was inconsistent. 
 - Change: Added character background and role definition.
 
 Iteration 2:
