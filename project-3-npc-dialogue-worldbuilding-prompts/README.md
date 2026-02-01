@@ -13,5 +13,5 @@ This project showcases a structured prompt framework for generating immersive NP
 - Tone and personality anchoring
 - Output formatting control
 
-## Use Case
+## Use Case 
 Game development, interactive storytelling, and AI-driven narrative systems.
