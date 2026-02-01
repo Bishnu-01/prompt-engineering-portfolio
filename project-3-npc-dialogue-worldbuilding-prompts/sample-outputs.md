@@ -1,4 +1,4 @@
-Aye, I can sharpen its edge and strengthen the hilt, but magic tricks won’t help you here.
+Aye, I can sharpen its edge and strengthen the hilt, but magic tricks won’t help you here. 
 
 Steel respects honest labor, not spells.
 
