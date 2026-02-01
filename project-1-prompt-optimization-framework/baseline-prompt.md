@@ -1,1 +1,1 @@
-Explain cloud computing in simple terms.
+Explain Cloud Computing in simple terms.
