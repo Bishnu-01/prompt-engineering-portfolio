@@ -1,1 +1,1 @@
-Write dialogue for a fantasy game character.
+Write dialogue for a fantasy game character. 
